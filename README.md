@@ -1,4 +1,4 @@
-<!DOCTYPE html> 
+<html> 
 <html>
 <body>
 	<h1>🤖 AutoGPT-Social 📸</h1>
